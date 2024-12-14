@@ -13,7 +13,7 @@
 /Denoise_CPP/Profiles
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
-.png
+/images/.png
 # Mono auto generated files
 mono_crash.*
 
@@ -400,3 +400,4 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 *.txt
+/images
